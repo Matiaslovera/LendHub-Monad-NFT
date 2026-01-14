@@ -1,5 +1,7 @@
 # 🏦 LendHub: Decentralized NFT Lending & Borrowing Protocol on Monad
 
+
+
 A decentralized NFT-backed lending and borrowing platform built natively on Monad. Users can collateralize whitelisted NFTs to borrow USDT, while liquidity providers earn rewards for providing liquidity.
 
 ## 🌟 Key Features
